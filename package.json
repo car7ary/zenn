@@ -1,0 +1,19 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "description": "zenn.devの記事管理",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github-canary:car7ary/zenn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zenn-cli": "^0.1.70"
+  }
+}
